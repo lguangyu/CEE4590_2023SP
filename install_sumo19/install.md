@@ -10,7 +10,7 @@ In this course we will stick with SUMO19 and ignore the newer versions (i.e. SUM
 ## 2. Install
 
 Open the downloaded installer and follow the installation wizard.
-In the `Select install location` step, be careful that the paths should not contain any special characters (any character other than letters (A-Z and a-z), digits (0-9), dash (-) and underscore (_)).
+In the `Select Install Location` step, be careful that the paths should not contain any special characters (any character other than letters (A-Z and a-z), digits (0-9), and underscore (_)).
 
 ![](assets/install_path.png)
 
@@ -18,16 +18,15 @@ Continue the installation until it finishes.
 
 ![](assets/install_complete.png)
 
-## 3. Acquire the machine identification code (MIC)
+## 3. Acquire and submit the machine identification code (MIC)
 
-We will distribute a teaching license for this course.
-First, run SUMO19; after a successful installation you will probably be able to launch it from the start menu:
+Launch SUMO19; you will probably be able to do it from the start menu after a successful installation:
 
 ![](assets/run_from_start_menu.png)
 
 On the first run the program will ask for a valid license.
 
-First click the button `I need a new license`, two more buttons will show up among which click `Copy MIC`, as shown below:
+Click the button `I need a new license`, two more buttons will show up, among which click `Copy MIC`, shown as below:
 
 ![](assets/copy_mic.png)
 
